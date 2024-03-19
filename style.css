@@ -1,0 +1,330 @@
+.main {
+    background-color: white;
+    width: 100%;
+    height: 600vh;
+
+    padding: 0 auto;
+    margin: 0%;
+}
+
+.box {
+    background-color: white;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    border-bottom: 2px solid rgb(179, 175, 175);
+    text-transform: capitalize;
+
+}
+
+.one {
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.two {
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+
+}
+
+.three {
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+
+}
+
+.four {
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.five {
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.six {
+    padding-top: 15px;
+    padding-left: 400px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.seven {
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.eight {
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.nine {
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+
+}
+
+a:hover {
+    background-color: rgb(123, 230, 144);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(7, 5, 5);
+
+
+}
+
+.boxtwo {
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+}
+
+.lists>li {
+    display: inline-block;
+    padding-left: 10px;
+    padding-top: 10px;
+    text-transform: capitalize;
+    font-size: large;
+    font-weight: 300;
+}
+
+.boxthree {
+    padding: 10px;
+    display: flex;
+    width: 100%;
+    height: 60vh;
+
+}
+
+.first {
+    width: 50%;
+    padding-left: 60px;
+    padding-top: 50px;
+}
+
+h1 {
+
+    color: rgb(18, 244, 18);
+    font-weight: 900;
+    text-transform: uppercase;
+
+}
+
+h3 {
+    color: gray;
+    text-transform: capitalize;
+}
+
+button {
+    color: rgb(247, 255, 247);
+    background-color: green;
+    border: 2px solid green;
+    border-radius: 50%;
+    height: 7vh;
+}
+
+.boxfour {
+    padding-left: 50px;
+    color: gray;
+
+}
+
+.second {
+    padding-right: 40px;
+}
+
+.third {
+    padding-right: 40px;
+}
+
+.boxfive {
+    display: flex;
+}
+
+.forth {
+    padding-left: 60px;
+    text-transform: capitalize;
+    padding-top: 30px;
+
+}
+
+.boxfive>img {
+    width: 500px;
+    padding-top: 20px;
+    padding-left: 20px;
+    height: 70vh;
+}
+
+.boxsix {
+    padding-left: 50px;
+}
+
+.boxseven {
+    display: flex;
+    width: 100%;
+
+}
+
+.onee {
+margin:60px;
+    color: black;
+    padding: 20px;
+
+    border: 2px solid gray;
+    border-radius: 5%;
+    width: 200px;
+
+}
+
+.twoo {
+    padding: 30px;
+    margin:60px;
+    color: black;
+
+    border: 2px solid gray;
+    border-radius: 5%;
+    width: 200px;
+
+}
+
+.threee {
+    margin:60px;
+    padding: 20px;
+
+    color: black;
+
+    border: 2px solid gray;
+    border-radius: 5%;
+    width: 200px;
+}
+
+.fourr {
+
+    padding: 20px;
+    margin:60px;
+    color: black;
+    border: 2px solid gray;
+    border-radius: 5%;
+    width: 200px;
+}
+
+.boxeight {
+    display: flex;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.fivee {
+    width: 200px;
+    color: black;
+    padding: 20px;
+    margin:60px;
+    border: 2px solid gray;
+    border-radius: 5%;
+}
+
+.sixx {
+    width: 200px;
+    color: black;
+    padding: 20px;
+    margin:60px;
+    border: 2px solid gray;
+    border-radius: 5%;
+}
+
+.sevenn {
+    width: 200px;
+    color: black;
+    padding: 20px;
+    margin:60px;
+    border: 2px solid gray;
+    border-radius: 5%;
+}
+
+.eightt {
+    width: 200px;
+    color: black;
+    padding: 20px;
+    margin:60px;
+    border: 2px solid gray;
+    border-radius: 5%;
+}
+
+.boxnine {
+    display: flex;
+    margin: 5px;
+    width: 100%;
+}
+
+.fifth>img {
+    width: 400px;
+    height: 90vh;
+
+}
+
+.sixth {
+    background-color: rgb(8, 53, 8);
+    color: white;
+    width: 60%;
+    margin-left: 60px;
+    padding-left: 10px;
+}
+.boxten{
+    background-color: rgb(8, 53, 8);
+    text-transform: capitalize;
+    display: flex;
+ margin-left: 4%;
+     width: 100%;
+    height: 70vh; 
+    font-weight: bold ;
+
+}
+
+.boxeleven{
+    display: flex;
+    background-color: rgb(8, 53, 8); 
+  color:white;
+    padding-top: 50px;
+    width: 100%;
+    margin-left: 4%;
+    font-size: x-large;
+    height: 8vh;
+    border-bottom:1px solid rgb(205, 202, 202);
+}
+.boxeleven>img{
+    width: 60px;
+    height: 6vh;
+    padding-left: 50px;
+
+}
+.boxtwelve{
+    background-color: rgb(8, 53, 8);  
+color: white;
+margin-left: 4%;
+text-transform: capitalize;
+height: 10vh;
+width: 100%;
+padding-top: 10px;
+padding-left: 5px;
+}
